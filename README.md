@@ -1,14 +1,14 @@
 # 💫 About Me:
 
-[cite_start]👋 Hi, I'm Rahaf Alamri [cite: 1]
+👋 Hi, I'm Rahaf Alamri
 
-[cite_start]I'm a Software Engineering graduate passionate about quality assurance, test automation, and backend development[cite: 1, 2, 4]. [cite_start]Currently, I'm deepening my expertise in Spring Boot and Cypress to build and test scalable applications[cite: 6, 17, 49].
+I'm a Software Engineering graduate passionate about quality assurance, test automation, and backend development. Currently, I'm deepening my expertise in Spring Boot and Cypress to build and test scalable applications.
 
-* [cite_start]💻 Skilled in **Java, JavaScript, SQL**, and automation frameworks like **Selenium, Cypress, and Cucumber**[cite: 49, 50, 52].
-* [cite_start]🛠 Experienced with **Jira (Xray), Git/GitHub**, and **Agile** workflows[cite: 29, 31, 51, 52].
-* [cite_start]🚀 Awarded **First Place in Scientific Research** for my graduation project[cite: 14].
-* [cite_start]🎯 Former **Product Owner Trainee** at ROSHN Group, bridging the gap between business and tech[cite: 34, 38].
-* [cite_start]🌍 Based in **Riyadh**, fluent in Arabic and English[cite: 3, 35].
+* 💻 Skilled in **Java, JavaScript, SQL**, and automation frameworks like **Selenium, Cypress, and Cucumber**.
+* 🛠 Experienced with **Jira (Xray), Git/GitHub**, and **Agile** workflows.
+* 🚀 Awarded **First Place in Scientific Research** for my graduation project.
+* 🎯 Former **Product Owner Trainee** at ROSHN Group, bridging the gap between business and tech.
+* 🌍 Based in **Riyadh**, fluent in Arabic and English.
 
 I enjoy building solutions that combine technical precision with high-quality standards, and I'm always open to collaborating on projects that involve software testing and backend engineering.
 
