@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 Hi, I'm Rahaf Alamri
+[cite_start]👋 Hi, I'm Rahaf Alamri [cite: 1]
 
 [cite_start]I'm a Software Engineering graduate passionate about quality assurance, test automation, and backend development[cite: 1, 2, 4]. [cite_start]Currently, I'm deepening my expertise in Spring Boot and Cypress to build and test scalable applications[cite: 6, 17, 49].
 
