@@ -19,7 +19,7 @@ I enjoy building backend systems with clean architecture and solid test coverage
 - **BookShare Platform** — Library backend with digital wallet, role-based access, and automated notifications
 ---
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahafalamri0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahafalamri0/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwsqQfzlFRxCwmp21dcn9ew%3D%3D)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rhfa9024@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahafAlamri-e)
 ---
